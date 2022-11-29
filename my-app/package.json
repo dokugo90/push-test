@@ -37,7 +37,7 @@
     ]
   },
 
-  "homepage": "https://dokugo90.github.io/<repository-name>/",
+  "homepage": "https://dokugo90.github.io/push-test/",
 "scripts": {
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build",
